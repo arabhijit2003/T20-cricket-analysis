@@ -84,4 +84,4 @@ In this end-to-end data analytics project , I have used cricket T20 world cup (2
   https://user-images.githubusercontent.com/105696717/231066484-7f5a1804-49c8-49cc-852b-cf1e96899a63.mp4
 
 
-* Link to interactive dashboard:  [click here](https://www.novypro.com/project/cricket-analytics-project)
+
